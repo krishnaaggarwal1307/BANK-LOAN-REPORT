@@ -80,13 +80,8 @@ and compare loan performance across various categories like **Purpose**, **Grade
 ## 📷 **Dashboard Snapshots**
 
 ### **Summary View**
-![Summary Dashboard](https://github.com/yourusername/BANK-LOAN-DASHBOARD/blob/main/assets/summary_snapshot.png)
+![Summary Dashboard](https://github.com/krishnaaggarwal1307/BANK-LOAN-REPORT/blob/main/DASHBOARD_%20SNAPSHOT.png)
 
-### **Overview View**
-![Overview Dashboard](https://github.com/yourusername/BANK-LOAN-DASHBOARD/blob/main/assets/overview_snapshot.png)
-
-### **Detail View**
-![Detail Dashboard](https://github.com/yourusername/BANK-LOAN-DASHBOARD/blob/main/assets/detail_snapshot.png)
 
 ---
 
